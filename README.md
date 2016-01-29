@@ -2,3 +2,4 @@
 Partners: Philip Mak
 		  David Pham
 Due Date: Sunday, February 7th
+David pls get used to github :D
